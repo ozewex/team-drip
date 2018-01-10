@@ -1,0 +1,8 @@
+# this is to list the command that is useful in linux for github
+1. go to the directory on your local directory, clone the repository from github into present directory
+git clone http://RONG-G@github.com/ozewex/team-drip.git
+2. to to the directory and open the file folder of the repository just cloned
+cd ./team-drip
+3. make some changes of the file you are interested in notebook folder using jupyter notebook, save the changes
+4.
+
