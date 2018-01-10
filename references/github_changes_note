@@ -1,6 +1,6 @@
 # this is to list the command that is useful in linux for github
 # things after # is notes for the command
-1. go to the directory on your local directory, clone the repository from github into present directory
+1. (first time only) go to the directory on your local directory, clone the repository from github into present directory
 git clone http://RONG-G@github.com/ozewex/team-drip.git
 2. to to the directory and open the file folder of the repository just cloned
 cd ./team-drip # change 
@@ -8,6 +8,7 @@ cd ./team-drip # change
 git status # to check the present branch and git info
 git checkout Rong # to switch from branch masters to branch Rong 
 git branch # check which branch is the present the working branch
+git branch -av # check which branches exist
 4. make some changes of the file you are interested in notebook folder using jupyter notebook, save the changes to local directory
 5. check the changes in git
 git status # there should be some red line saying: modified: .......
