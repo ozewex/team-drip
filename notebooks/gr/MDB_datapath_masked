@@ -1,0 +1,17 @@
+This is the datasets' pathlist for MDB in 5km month resolution
+
+ET : /g/data/oe9/project/team-drip/ENV_5km_month/XXX_5km_month.nc (masked)
+     PET AET RAD Tmax Tmin
+     
+ENV: /g/data/oe9/project/team-drip/AWAP/XXX_month_radiation.nc (un_masked)
+     radiation rain tmax tmin
+     
+SPI: /g/data/oe9/project/team-drip/Rainfall/SPI_awap/SPI_XXM_masked.nc (masked)
+     1 3 6 12 24
+     
+VI : /g/data/oe9/project/team-drip/resampled_NDVI/coarse_XXVI.nc (masked)
+     NDVI EVI
+     
+Prcp:/g/data/oe9/project/team-drip/AWAP/AWAP_month_rain_masked.nc (masked)
+
+** masked means the dataset has been masked to select data within MDB only
