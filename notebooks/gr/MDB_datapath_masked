@@ -14,4 +14,7 @@ VI : /g/data/oe9/project/team-drip/resampled_NDVI/coarse_XXVI.nc (masked)
      
 Prcp:/g/data/oe9/project/team-drip/AWAP/AWAP_month_rain_masked.nc (masked)
 
+R2 : /g/data/oe9/project/team-drip/Spatial_temporal_correlation/SPI_EVI/EVI_SPI1M_Correlation.nc
+     correlation of VI with SPI
+
 ** masked means the dataset has been masked to select data within MDB only
